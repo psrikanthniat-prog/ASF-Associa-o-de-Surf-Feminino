@@ -1,10 +1,12 @@
 {
-  "date": "2026-11-15T22:28:55.990628+00:00",
+  "date": "2026-11-16T04:46:46.824025+00:00",
   "total": 109,
-  "ok": 101,
+  "ok": 100,
   "skipped": 8,
-  "broken_count": 0,
-  "broken": [],
+  "broken_count": 1,
+  "broken": [
+    "https://acarolmourad-commits.github.io/asf-previsao/"
+  ],
   "results": [
     {
       "url": "https://acarolmourad-commits.github.io/asf-app/",
@@ -83,8 +85,8 @@
     },
     {
       "url": "https://acarolmourad-commits.github.io/asf-previsao/",
-      "status": "ok",
-      "http": 200
+      "status": "broken",
+      "http": 503
     },
     {
       "url": "https://acarolmourad-commits.github.io/asf-quiz/",
