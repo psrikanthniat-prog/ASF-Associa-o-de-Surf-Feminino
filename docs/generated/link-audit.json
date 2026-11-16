@@ -1,12 +1,10 @@
 {
-  "date": "2026-11-16T04:46:46.824025+00:00",
-  "total": 109,
-  "ok": 100,
+  "date": "2026-11-16T14:49:11.290124+00:00",
+  "total": 112,
+  "ok": 104,
   "skipped": 8,
-  "broken_count": 1,
-  "broken": [
-    "https://acarolmourad-commits.github.io/asf-previsao/"
-  ],
+  "broken_count": 0,
+  "broken": [],
   "results": [
     {
       "url": "https://acarolmourad-commits.github.io/asf-app/",
@@ -85,8 +83,8 @@
     },
     {
       "url": "https://acarolmourad-commits.github.io/asf-previsao/",
-      "status": "broken",
-      "http": 503
+      "status": "ok",
+      "http": 200
     },
     {
       "url": "https://acarolmourad-commits.github.io/asf-quiz/",
@@ -248,6 +246,12 @@
       "local": true
     },
     {
+      "url": "./asf-navigation-a11y.js",
+      "status": "ok",
+      "http": 200,
+      "local": true
+    },
+    {
       "url": "/aprender/",
       "status": "ok",
       "http": 200,
@@ -338,6 +342,12 @@
       "local": true
     },
     {
+      "url": "asf-navigation-a11y.css",
+      "status": "ok",
+      "http": 200,
+      "local": true
+    },
+    {
       "url": "asf-ux.css",
       "status": "ok",
       "http": 200,
@@ -363,6 +373,12 @@
     },
     {
       "url": "assets/css/home-journey.css",
+      "status": "ok",
+      "http": 200,
+      "local": true
+    },
+    {
+      "url": "assets/css/home-modernization.css",
       "status": "ok",
       "http": 200,
       "local": true

@@ -1,13 +1,13 @@
 {
   "date": "2026-11-16",
-  "issues_found": 3,
+  "issues_found": 5,
   "improvements_available": 4,
-  "score": 80,
+  "score": 85,
   "suggested": [
     {
-      "type": "js",
-      "change": "Lazy loading images",
-      "impact": "high"
+      "type": "seo",
+      "change": "Meta tags optimization",
+      "impact": "medium"
     },
     {
       "type": "css",
@@ -15,5 +15,5 @@
       "impact": "high"
     }
   ],
-  "timestamp": "2026-11-16T04:46:12.484913"
+  "timestamp": "2026-11-16T14:48:43.016718"
 }
