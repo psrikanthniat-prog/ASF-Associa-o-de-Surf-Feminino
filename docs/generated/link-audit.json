@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16T21:27:40.503721+00:00",
+  "date": "2026-11-17T01:36:40.272292+00:00",
   "total": 118,
   "ok": 110,
   "skipped": 8,
@@ -138,11 +138,6 @@
     },
     {
       "url": "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2",
-      "status": "ok",
-      "http": 200
-    },
-    {
-      "url": "https://eventos.asf.surf/",
       "status": "ok",
       "http": 200
     },
@@ -570,6 +565,12 @@
     },
     {
       "url": "mareas/",
+      "status": "ok",
+      "http": 200,
+      "local": true
+    },
+    {
+      "url": "mural/",
       "status": "ok",
       "http": 200,
       "local": true
