@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "new_tip": {
     "category": "Técnica",
     "title": "Como fazer o bottom turn",
@@ -16,15 +16,15 @@
   },
   "improvements": [
     {
+      "type": "layout",
+      "title": "Modo escuro",
+      "priority": "medium"
+    },
+    {
       "type": "feature",
       "title": "Medidor de condições do mar",
       "priority": "high"
-    },
-    {
-      "type": "content",
-      "title": "Mais dicas técnicas avançadas",
-      "priority": "high"
     }
   ],
-  "generated_at": "2026-11-17T19:42:16.725085"
+  "generated_at": "2026-11-18T00:31:41.347568"
 }
