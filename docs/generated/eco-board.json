@@ -1,11 +1,11 @@
 {
   "date": "2026-11-22",
   "board_tip": {
-    "title": "Shortboard: Performance",
-    "content": "Shortboards (5'6\"-6'6\") são para performance. Requer técnica e condicionamento.",
+    "title": "Longboard: O clássico",
+    "content": "Longboards (9'0\"+) são perfeitas para ondas pequenas e estabilidade.",
     "tags": [
-      "Shortboard",
-      "Performance"
+      "Longboard",
+      "Clássico"
     ]
   },
   "eco_tip": {
@@ -14,5 +14,5 @@
     "category": "Meio Ambiente"
   },
   "daily_message": "Alongue ombros e costas antes de entrar na água!",
-  "generated_at": "2026-11-22T14:03:20.951748"
+  "generated_at": "2026-11-22T18:22:20.187877"
 }
