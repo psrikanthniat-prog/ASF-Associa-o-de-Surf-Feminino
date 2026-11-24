@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "new_tip": {
     "category": "Equipamento",
     "title": "Qual leash escolher",
@@ -16,9 +16,9 @@
   },
   "improvements": [
     {
-      "type": "layout",
-      "title": "Modo escuro",
-      "priority": "medium"
+      "type": "content",
+      "title": "Mais dicas técnicas avançadas",
+      "priority": "high"
     },
     {
       "type": "feature",
@@ -26,5 +26,5 @@
       "priority": "high"
     }
   ],
-  "generated_at": "2026-11-23T22:30:04.208755"
+  "generated_at": "2026-11-24T03:49:00.682343"
 }
