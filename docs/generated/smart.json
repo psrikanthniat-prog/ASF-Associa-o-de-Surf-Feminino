@@ -21,10 +21,10 @@
       "priority": "high"
     },
     {
-      "type": "content",
-      "title": "Mais dicas técnicas avançadas",
-      "priority": "high"
+      "type": "layout",
+      "title": "Modo escuro",
+      "priority": "medium"
     }
   ],
-  "generated_at": "2026-11-25T16:48:27.243343"
+  "generated_at": "2026-11-25T20:25:02.202130"
 }
