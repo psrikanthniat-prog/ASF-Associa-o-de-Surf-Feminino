@@ -16,15 +16,15 @@
   },
   "improvements": [
     {
-      "type": "layout",
-      "title": "Modo escuro",
-      "priority": "medium"
-    },
-    {
       "type": "feature",
       "title": "Medidor de condições do mar",
       "priority": "high"
+    },
+    {
+      "type": "content",
+      "title": "Mais dicas técnicas avançadas",
+      "priority": "high"
     }
   ],
-  "generated_at": "2026-11-26T16:24:30.357614"
+  "generated_at": "2026-11-26T20:02:40.427773"
 }
