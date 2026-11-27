@@ -1,11 +1,11 @@
 {
   "date": "2026-11-27",
   "board_tip": {
-    "title": "Funboard: A versátil",
-    "content": "Funboards (7'0\"-8'6\") são ideais para evolução. Mais ágil que longboard, mantém estabilidade.",
+    "title": "Fish: Para ondas pequenas",
+    "content": "Shape com outline curto e largo. Perfeita para ondas fracas! Twin ou quad fin para mais speed.",
     "tags": [
-      "Funboard",
-      "Evolução"
+      "Fish",
+      "Speed"
     ]
   },
   "eco_tip": {
@@ -13,6 +13,6 @@
     "content": "Núcleo EPS ecológico. Pode ser 100% reciclado ou biodegradado. Menor impacto ambiental.",
     "category": "Sustentabilidade"
   },
-  "daily_message": "Protetor solar: reaplique a cada 2 horas!",
-  "generated_at": "2026-11-27T01:29:14.990424"
+  "daily_message": "Hidrate-se: 500ml de água antes de surfar!",
+  "generated_at": "2026-11-27T16:09:19.213306"
 }

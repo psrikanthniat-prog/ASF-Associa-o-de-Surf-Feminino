@@ -2,12 +2,12 @@
   "date": "2026-11-27",
   "issues_found": 4,
   "improvements_available": 4,
-  "score": 78,
+  "score": 76,
   "suggested": [
     {
-      "type": "seo",
-      "change": "Meta tags optimization",
-      "impact": "medium"
+      "type": "css",
+      "change": "Hover animation on cards",
+      "impact": "high"
     },
     {
       "type": "css",
@@ -15,5 +15,5 @@
       "impact": "high"
     }
   ],
-  "timestamp": "2026-11-27T01:29:15.041154"
+  "timestamp": "2026-11-27T16:09:19.267511"
 }
