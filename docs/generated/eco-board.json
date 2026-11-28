@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "board_tip": {
-    "title": "Funboard: A versátil",
-    "content": "Funboards (7'0\"-8'6\") são ideais para evolução. Mais ágil que longboard, mantém estabilidade.",
+    "title": "Longboard: O clássico",
+    "content": "Longboards (9'0\"+) são perfeitas para ondas pequenas e estabilidade.",
     "tags": [
-      "Funboard",
-      "Evolução"
+      "Longboard",
+      "Clássico"
     ]
   },
   "eco_tip": {
@@ -14,5 +14,5 @@
     "category": "Consumo Consciente"
   },
   "daily_message": "Maré baixa às 11:45 hoje - melhor para iniciantes!",
-  "generated_at": "2026-11-27T19:51:16.392692"
+  "generated_at": "2026-11-28T01:05:36.242847"
 }
